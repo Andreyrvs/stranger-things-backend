@@ -10,7 +10,7 @@ Todos arquivos exceto os citados acima foram desenvolvidos pela [Trybe](https://
 ## Técnologias usadas
 
 Back-end:
-> Desenvolvido usando: Heroku
+> Desenvolvido usando: Docker, Heroku
 
 ## Instalando Dependências
 
