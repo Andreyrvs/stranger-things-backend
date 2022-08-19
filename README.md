@@ -26,4 +26,5 @@ git clone git@github.com:Andreyrvs/stranger-things-backend.git
 
 ```bash
 https://andreyrvs-dw.herokuapp.com/
+https://andreyrvs-up.herokuapp.com/
 ```
