@@ -1,16 +1,26 @@
-# 🚧 README em construção 🚧
+# Stranger Things Backend
 
-<!-- Olá, Tryber!
+## Contexto
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+Este projeto trata-se de um Deploy no Heroku.
 
-É essencial que você preencha esse documento por conta própria, ok?
+## Técnologias usadas
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+Back-end:
+> Desenvolvido usando: Heroku
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+## Instalando Dependências
 
--->
+* clone o projeto:
+
+```bash
+git clone git@github.com:Andreyrvs/stranger-things-backend.git
+```
+
+## Executando aplicação
+
+* Para rodar o back-end:
+
+```bash
+https://andreyrvs-dw.herokuapp.com/
+```
